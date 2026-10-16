@@ -15,6 +15,8 @@
 | [repitol-clean](https://github.com/inoryo-ai/repitol-clean) | LINE ベースの飲食店ロイヤルティ基盤。スタンプカード・クーポン・自動配信。Next.js 16 + Supabase + LINE Messaging API。本番稼働中マルチテナント SaaS の公開ミラー。 |
 | [nous-core](https://github.com/inoryo-ai/nous-core) | 決定論的・LLM 非依存の知識応答エンジン。バージョン管理された JSON ナレッジベース上で追跡可能な回答を返す。実行時依存ゼロ。本番システム1件で稼働中。 |
 | [shift-tool-public](https://github.com/inoryo-ai/shift-tool-public) | 飲食店シフト管理。Excel ⇔ JSON 変換 + OR-Tools CP-SAT による自動生成、Streamlit UI。3店舗で運用中。 |
+| [public-tender-pipeline](https://github.com/inoryo-ai/public-tender-pipeline) | 入札案件情報システムの技術検証。クローラのサイレント故障検知・案件の名寄せ・LLM コスト設計。CI（ruff・mypy・pytest）と、要件からコードまでのトレーサビリティ検査つき。 |
+| [zero-to-web-engineer](https://github.com/inoryo-ai/zero-to-web-engineer) | 未経験から Web エンジニアへ：低レイヤーから作って理解する全27章の Ruby/Rails 教材（非公式・CC BY 4.0）。 |
 | [centaurus-oss](https://github.com/inoryo-ai/centaurus-oss) | プロジェクト横断の Python ユーティリティ。外部サービスアダプタ基盤、TTL 応答キャッシュ、FastAPI セキュリティ補助。 |
 | [logos](https://github.com/inoryo-ai/logos) | マルチテナント業務ワークフロー基盤。トレースファースト、フェイルソフト検証、アノテーションキャッシュ。Next.js 15 + Supabase RLS + Langfuse。**設計・実装進行中。** |
 
